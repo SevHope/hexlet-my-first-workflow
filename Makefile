@@ -1,2 +1,2 @@
-make say-hello:
-	echo "Hello, Word!"
+say-hello:
+	console.log("Hello, Word!")
