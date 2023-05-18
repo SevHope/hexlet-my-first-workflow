@@ -1,2 +1,2 @@
 say-hello:
-	console.log("Hello, Word!")
+	echo "Hello, Word!"
